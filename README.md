@@ -2,4 +2,4 @@
 
 read notebook for full story
 
-humanities in data science course
+made for a humanities in data science course
